@@ -1,6 +1,6 @@
 # Road to Nowhere
 
-`insert gifs here`
+![](magic8.gif)
 
 ## About
 
